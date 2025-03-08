@@ -18,7 +18,7 @@ Tengo experiencia en ambientes Cloud con **Azure y GCP**
 
 ---  
 
-# 👋 Hi everyone! I'm Ian  
+# 👋 Hi everyone! I'm Ian Ramirez
 ### 🚀 Data Engineer | Aspiring Data Scientist  
 
 I'm a professional with over **4 years of experience** in data analysis, exploration, and management for decision-making. I specialize in **Python, SQL, Power BI, Tableau, GCP, Azure, Spark, Hive, Databricks, and Airflow**.  
