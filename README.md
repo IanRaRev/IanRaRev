@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola a todos! Soy Ian.  
+### 🚀 Ingeniero de Datos | Aspirante a Científico de Datos  
 
-<!--
-**IanRaRev/IanRaRev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional con más de 4 años de experiencia en el análisis, exploración y gestión de datos para la toma de decisiones. Me especializo en tecnologías como **Python, SQL, Power BI, Tableau, GCP, Azure, Spark, Hive, Databricks y Airflow**.  
 
-Here are some ideas to get you started:
+Actualmente, estoy en un proceso de transición hacia **Ciencia de Datos**, desarrollando proyectos para fortalecer mis conocimientos en **modelado de datos, machine learning y análisis predictivo**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo experiencia en ambientes Cloud con **Azure y GCP**
+
+📌 **Intereses:**  
+- Inteligencia Artificial y Machine Learning 🤖  
+- Optimización de datos y Big Data 📊 
+
+💡 **Siempre en búsqueda de nuevos retos y oportunidades para seguir aprendiendo.**  
+
+📫 **Contáctame en:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ianrarev/)  
+
+---  
+
+# 👋 Hi everyone! I'm Ian  
+### 🚀 Data Engineer | Aspiring Data Scientist  
+
+I'm a professional with over **4 years of experience** in data analysis, exploration, and management for decision-making. I specialize in **Python, SQL, Power BI, Tableau, GCP, Azure, Spark, Hive, Databricks, and Airflow**.  
+
+Currently, I'm transitioning into **Data Science**, developing projects to strengthen my knowledge in **data modeling, machine learning, and predictive analytics**. 
+
+I have experience in Cloud environments with **Azure and GCP**
+
+📌 **Interests:**  
+- Artificial Intelligence and Machine Learning 🤖  
+- Data Optimization and Big Data 📊  
+
+💡 **Always looking for new challenges and opportunities to keep learning.**  
+
+📫 **Contact me at:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ianrarev/)  
