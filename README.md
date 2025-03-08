@@ -1,4 +1,4 @@
-# 👋 ¡Hola a todos! Soy Ian.  
+# 👋 ¡Hola a todos! Soy Ian Ramirez.  
 ### 🚀 Ingeniero de Datos | Aspirante a Científico de Datos  
 
 Soy un profesional con más de 4 años de experiencia en el análisis, exploración y gestión de datos para la toma de decisiones. Me especializo en tecnologías como **Python, SQL, Power BI, Tableau, GCP, Azure, Spark, Hive, Databricks y Airflow**.  
